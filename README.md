@@ -1,4 +1,4 @@
-Repository related to the publication "Compensatory sensory mechanisms in naïve blind cavefish navigating novel environments after lateral line ablation".
+<h4>Repository related to the publication "Compensatory sensory mechanisms in naïve blind cavefish navigating novel environments after lateral line ablation".</h4>
 <h5>Authors: S. Z. Marketaki, F. Berio, and V. Di Santo.</h5>
 
 <br><br>
